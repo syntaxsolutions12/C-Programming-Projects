@@ -10,7 +10,7 @@
 .  
 .   
 .  
-  
+.  
 ### - [Subscribe](https://www.youtube.com/channel/UCRj-Poaq-KYpn8WLZN0VSFA?sub_confirmation=1/)
 ### - [Code of Conduct](https://github.com/syntaxsolutions12/C-Programming-Projects/blob/main/CODE_OF_CONDUCT.md)
 ### - [Contributing](https://github.com/syntaxsolutions12/C-Programming-Projects/blob/main/CONTRIBUTING.md)
